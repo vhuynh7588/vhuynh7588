@@ -1,5 +1,8 @@
-## Hi there 👋
-
+👋 Hi I'm Vincent Huynh
+🌱 I’m currently learning Artifical Intelligence, Machine Learning, Networks, Frontend and Backend development
+👯 I’m looking to collaborate on projects that save and make money
+🔭 I’m currently working on finding full time employment after graduation and applications for graduate programs
+🎓 I'm pursuing a bachelor's degree in Computer Science with a minor in Mathematics from SDSU
 <!--
 **vhuynh7588/vhuynh7588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
